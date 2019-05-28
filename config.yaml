@@ -1,12 +1,16 @@
 jenkins:  'https://10.96.112.150'
 username: 'anupama'
 password: 'ampliseq@321'
+verify-ssl: true 
+
 
 repo:'https://github.com/AnupamaRudra/autojob'
 scm-username: 'AnupamaRudra'
 scm-password: 'AR1998rocks!'
 
 template: first
+namesep: '-'
 namefmt: '{shortref}'
 overwrite: true
+build-on-create: false
 enable: true
