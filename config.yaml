@@ -1,0 +1,14 @@
+jenkins:  'https://10.96.112.150'
+username: 'Anupama'
+password: 'ampliseq@321'
+
+repo:'https://github.com/AnupamaRudra/autojob'
+scm-username: 'AnupamaRudra'
+scm-password: 'AR1998rocks!'
+
+template:'Direct'
+namesep: '-'
+namefmt: '{shortref}'
+overwrite: true
+build-on-create: false
+enable: 'sticky'
