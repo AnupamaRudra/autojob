@@ -6,7 +6,7 @@ repo:'https://github.com/AnupamaRudra/autojob'
 scm-username: 'AnupamaRudra'
 scm-password: 'AR1998rocks!'
 
-template: flask-master
+template: first
 namefmt: '{shortref}'
 overwrite: true
 enable: true
