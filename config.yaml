@@ -1,5 +1,5 @@
 jenkins:  'https://10.96.112.150'
-username: 'Anupama'
+username: 'anupama'
 password: 'ampliseq@321'
 
 repo:'https://github.com/AnupamaRudra/autojob'
